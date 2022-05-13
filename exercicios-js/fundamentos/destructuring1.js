@@ -1,3 +1,4 @@
+// destructuring de par chave/valor
 const pessoa = {
     nome: 'Ana',
     idade: 5,
